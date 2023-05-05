@@ -13,6 +13,7 @@ from typing import List
 from datetime import datetime
 import math
 
+# pip install python-telegram-bot --upgrade - перед запуском
 bot_token = 'токен сюда'
 
 weekdays_verbose = ['Понедельник', 'Вторник', 'Среда', 'Четверг', 'Пятница', 'Суббота']
